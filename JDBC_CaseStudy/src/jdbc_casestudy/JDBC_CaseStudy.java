@@ -38,7 +38,7 @@ public class JDBC_CaseStudy {
     public static void main(String[] args) {
         // TODO code application logic here
         int flag;
-        String storeOption;
+        //String storeOption;
         
         while (true) {
             System.out.println("MAIN MENU");
